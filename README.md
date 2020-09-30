@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allen17mv" /> </p>
+
 ### Hi there, I'm Allen 👋
 
 
@@ -24,7 +25,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Azure for AI/ML](https://medium.com/@allenmanoj17/azure-for-ai-ml-76b91274c391)
 
+[Headstart in Deep-Tech](https://medium.com/@allenmanoj17/head-start-in-deep-tech-4e2195db3849)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
