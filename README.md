@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allen17mv" /> </p>
 ### Hi there, I'm Allen 👋
 
 
@@ -23,12 +24,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
-
 
 <hr/>
 
