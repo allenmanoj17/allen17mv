@@ -24,11 +24,10 @@
 <a href="https://medium.com/@allenmanoj17" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@allenmanoj17" height="40"/></a>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+
 [Azure for AI/ML](https://medium.com/@allenmanoj17/azure-for-ai-ml-76b91274c391)
 
 [Headstart in Deep-Tech](https://medium.com/@allenmanoj17/head-start-in-deep-tech-4e2195db3849)
-<!-- BLOG-POST-LIST:END -->
 
 <hr/>
 
