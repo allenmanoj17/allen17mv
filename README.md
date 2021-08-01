@@ -23,6 +23,8 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Allen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allenmanoj17&theme=neon-dark&hide_border=true"/>
 </p>
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/83fwjx83p7gvuk97o5djxugei?si=108436e13d9c4757)
+
 
 ### Reach me out:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/allenmanoj/) 
@@ -31,9 +33,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCVoekzAEHVlaHUFJQ_cuM3w?view_as=subscriber) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/allenmanoj17)
 <a href="https://medium.com/@allenmanoj17" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@allenmanoj17" height="40"/></a>
 
-
-[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/83fwjx83p7gvuk97o5djxugei?si=3cc21fb533a54fdd)
-
 <hr/>
 
 ## 📊 Github stats
@@ -41,10 +40,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻  GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Allen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=allenmanoj17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Allen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenmanoj17&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -53,7 +51,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details>
-  <summary>:octocat: Recent GitHub Activity</summary>
+  <summary>:octocat:  Recent GitHub Activity</summary>
   <br/>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Allen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allenmanoj17&custom_title=allenmanoj17's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
