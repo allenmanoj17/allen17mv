@@ -23,20 +23,20 @@
 </p>
 
 ## ✨ Initiatives
-An Instagram Page that motivates people and help them stay positive in all things. 
-Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='40'>](https://www.instagram.com/ablessednote/) [ablessednote](https://www.instagram.com/ablessednote/)
+- [TheSundayOrg](https://thesundayorg.social/) - yet to be launched community. <br>
+- An Instagram Page that motivates people and help them stay positive in all things. <br>
+Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='15'>](https://www.instagram.com/ablessednote/) [ablessednote](https://www.instagram.com/ablessednote/)
+
+- An Instagram Page that Highlights the tech industry with Tools, Tricks & Tips, Tech News, Resources <br>
+Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='15'>](https://www.instagram.com/elixircoding/) [elixircoding](https://www.instagram.com/elixircoding/)
 <br>
-An Instagram Page that Highlights the tech industry with Tools, Tricks & Tips, Tech News, Resources 
-Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='40'>](https://www.instagram.com/elixircoding/) [elixircoding](https://www.instagram.com/elixircoding/)
 
-
-### Reach me out:
-[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/allenmanoj/) 
-[<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='40'>](https://twitter.com/allenmanoj17)
-[<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCVoekzAEHVlaHUFJQ_cuM3w?view_as=subscriber) 
-[<img src='https://www.vectorlogo.zone/logos/devto/devto-icon.svg' alt='dev' height='40'>](https://dev.to/allenmanoj17)
-<a href="https://medium.com/@allenmanoj17" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@allenmanoj17" height="40"/></a>
-<hr/>
+## 📱 Reach me out 
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/allenmanoj/) 
+[<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='30'>](https://twitter.com/allenmanoj17)
+[<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCVoekzAEHVlaHUFJQ_cuM3w?view_as=subscriber) 
+[<img src='https://www.vectorlogo.zone/logos/devto/devto-icon.svg' alt='dev' height='30'>](https://dev.to/allenmanoj17)
+<a href="https://medium.com/@allenmanoj17" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@allenmanoj17" height="30"/></a>
 
 
 ## 📊 Github stats
@@ -57,6 +57,8 @@ Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.s
   <br/>
 </details>
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary>&#127942 <b>GitHub Awards</b></summary>
+  
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=allenmanoj17)
+  
 </details>
