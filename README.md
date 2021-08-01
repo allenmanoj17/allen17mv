@@ -18,16 +18,17 @@
 ## 🔧 Technologies
 
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
+![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
+![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
 ![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-![Git](https://img.icons8.com/color/30/git.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-![Windows](https://img.icons8.com/color/30/windows-10.png)
+![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![VSCode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
 
 ## 🔥 Streak stats
 
@@ -67,4 +68,10 @@
   <br/>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Allen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allenmanoj17&custom_title=allenmanoj17's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
+</details>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=allenmanoj17)
+
 </details>
