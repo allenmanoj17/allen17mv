@@ -20,8 +20,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allenmanoj17&theme=neon-dark)](https://git.io/streak-stats)
-
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Allen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allenmanoj17&theme=neon-dark&hide_border=true"/>
 </p>
 
 
