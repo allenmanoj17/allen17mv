@@ -1,20 +1,33 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
 
-### Hi there, I'm Allen 👋
+### Hey there, I'm Allen 👋
 
 
 - :mortar_board: Sophomore at Sri Venkateswara College of Engineering.
 - 🔭 I’m currently working on enhancing my skill each way possible.
-- 🌱 I’m currently learning Python, Front-end Web Development, Cloud.
+- 🌱 I’m currently learning Python, Front-end Web Development and improving my design skills.
 - 👯 I’m looking to collaborate on projects.
+- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://www.buymeacoffee.com/thesundayorg)!
 - 😄 Pronouns: He,Him
 - ⚡ Fun fact: I love listening to music, coding and Motivating others.
+- 🏆 2021 Goals:
+  - Make more projects.
+  - Launch the community - [TheSundayOrg](https://thesundayorg.social/) ☀️
 
-### :computer: Tech stack
-* HTML, CSS
-* Python
-* Machine Learning
-* And yet more to come :bowtie:
+
+## 🔧 Technologies
+
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
+![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
 
 ## 🔥 Streak stats
 
@@ -23,7 +36,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Allen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allenmanoj17&theme=neon-dark&hide_border=true"/>
 </p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/83fwjx83p7gvuk97o5djxugei?si=108436e13d9c4757)
 
 
 ### Reach me out:
@@ -56,10 +68,3 @@
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Allen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allenmanoj17&custom_title=allenmanoj17's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
-
-
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allenmanoj17&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenmanoj17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
