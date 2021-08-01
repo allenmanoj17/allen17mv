@@ -31,8 +31,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCVoekzAEHVlaHUFJQ_cuM3w?view_as=subscriber) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/allenmanoj17)
 <a href="https://medium.com/@allenmanoj17" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@allenmanoj17" height="40"/></a>
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/83fwjx83p7gvuk97o5djxugei?si=3cc21fb533a54fdd)
-<br/>
+
+[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/83fwjx83p7gvuk97o5djxugei?si=3cc21fb533a54fdd)
 
 <hr/>
 
