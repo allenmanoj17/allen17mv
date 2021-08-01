@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
+
+<img src="https://github.com/allenmanoj17/allenmanoj17/blob/master/banner.png">
 
 ### Hey there, I'm Allen 👋
 
