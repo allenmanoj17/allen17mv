@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
 
-[<img src="https://github.com/allenmanoj17/allenmanoj17/blob/master/allen%20github.png" border-radius="5px">](https://www.allenmanoj.ml/)
+[<img src="https://github.com/allenmanoj17/allenmanoj17/blob/master/allen%20github.png" border-radius="5px">](https://www.allenmanoj.me/)
 
-## <p align="center">Hey there, I'm [Allen Manoj](https://www.allenmanoj.ml/) ☀️ 
+## <p align="center">Hey there, I'm [Allen Manoj](https://www.allenmanoj.me/) ☀️ 
 <p> 
 
 - 😄 Pronouns: He,Him
@@ -23,7 +23,7 @@
 
 ## 🏆 2022 Goals
 - Build my organization [SUNDAY](https://thesundayorg.social/) ☀️
-- Write more [e-Books](https://store.thesundayorg.social/) that helps newbies and professionals.
+- Write more [E-Books](https://store.thesundayorg.social/) that helps newbies and professionals.
 - Make amazing projects.
 - Contribute to Open-Source.
 - Be physically and mentally fit.
