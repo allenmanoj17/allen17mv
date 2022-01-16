@@ -1,19 +1,34 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
 
-[<img src="https://github.com/allenmanoj17/allenmanoj17/blob/master/banner.jpeg">](https://www.allenmanoj.ml/)
+[<img src="https://github.com/allenmanoj17/allenmanoj17/blob/master/allen%20github.png" border-radius="5px">](https://www.allenmanoj.ml/)
 
-### Hey there, I'm [Allen](https://www.allenmanoj.ml/) 👋
+## <p align="center">Hey there, I'm [Allen Manoj](https://www.allenmanoj.ml/) ☀️ 
+<p> 
 
-- :mortar_board: Sophomore at Sri Venkateswara College of Engineering.
-- 🔭 I’m currently working on enhancing my skill each way possible.
-- 🌱 I’m currently learning Python, Front-end Web Development and improving my design skills.
-- 👯 I’m looking to collaborate on projects.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://www.buymeacoffee.com/thesundayorg)!
 - 😄 Pronouns: He,Him
+- :mortar_board: Junior at [Sri Venkateswara College of Engineering](https://www.svce.ac.in/).
+- 🔭 Always trying to upskill myself through all the ways possible.
+- 🌱 I’m currently learning Python, Machine Learning and improving my design skills.
+- 👯 I’m open for collaboration on projects based on <b>Data Science</b>.
 - ⚡ Fun fact: I love listening to music, coding and Motivating others.
-- 🏆 2021 Goals:
-  - Make more projects.
-  - Launch the community - [TheSundayOrg](https://thesundayorg.social/) ☀️
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://allenmanoj.me/)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thesundayorg)
+<br>
+<p>I talk about Python 🐍, Data Science 📊, Machine Learning 🧠, Cognitive Psychology, Mental Health 🦋, Positivity ✨ and Mindfulness 🧘.</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/allenmanoj17)
+[![Instagram](https://img.shields.io/badge/allenmanoj-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/allenmanoj/)
+
+
+## 🏆 2022 Goals
+- Build my organization [SUNDAY](https://thesundayorg.social/) ☀️
+- Write more [e-Books](https://store.thesundayorg.social/) that helps newbies and professionals.
+- Make amazing projects.
+- Contribute to Open-Source.
+- Be physically and mentally fit.
+- Code Everyday! 👨🏻‍💻
+- Write many Blogs.
 
 
 ## 🔥 Streak stats
@@ -22,21 +37,48 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Allen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allenmanoj17&theme=neon-dark&hide_border=true"/>
 </p>
 
-## ✨ Initiatives
-- [TheSundayOrg](https://thesundayorg.social/) - yet to be launched community. <br>
-- An Instagram Page that motivates people and help them stay positive in all things. <br>
-Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='15'>](https://www.instagram.com/ablessednote/) [ablessednote](https://www.instagram.com/ablessednote/)
 
-- An Instagram Page that Highlights the tech industry with Tools, Tricks & Tips, Tech News, Resources <br>
-Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='15'>](https://www.instagram.com/elixircoding/) [elixircoding](https://www.instagram.com/elixircoding/)
+# Initiatives ✨
+
+## SUNDAY 
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thesundayorg.social/)
+[![Discord](https://img.shields.io/badge/SUNDAY-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Skm7QhyQN9)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thesundayorg/)
+
+<p>
+Imagine if each of your days feels like “<b>SUNDAY</b>", a day where you just chill and enjoy. <br>
+<b>SUNDAY</b> is
+dedicated to making it possible by creating a global community full of connections to master life skills
+and achieve life's goals.
+<br>
+Your <b>one-stop destination</b> to ace life skills and to create a <b>sustainable world</b>.<br>
+Revolutionize the way we see - <b>technology, finance, mental health, career, and much more</b>. 💛
+</p>
+
+## Elixir Coding
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elixircoding/)
+
+<p>Spotlighting the tech industry by sharing Tools, Tricks & Tips, IT News, and Resources.</p>
+
+## Coders Tech
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/coderstech/)
+<p>
+  100% Relatable Coding Comedy for every Programmer out there 😂
+</p>
+
+
 <br>
 
-## 📱 Reach me out 
-[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/allenmanoj/) 
-[<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='30'>](https://twitter.com/allenmanoj17)
-[<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCVoekzAEHVlaHUFJQ_cuM3w?view_as=subscriber) 
-[<img src='https://www.vectorlogo.zone/logos/devto/devto-icon.svg' alt='dev' height='30'>](https://dev.to/allenmanoj17)
-<a href="https://medium.com/@allenmanoj17" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@allenmanoj17" height="30"/></a>
+## 📱 Socials - Reach me out
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenmanoj/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/allenmanoj17)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allenmanoj/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://allenmanoj.medium.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCVoekzAEHVlaHUFJQ_cuM3w/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/allenmanoj17)
 
 
 ## 📊 Github stats
@@ -62,3 +104,7 @@ Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.s
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=allenmanoj17)
   
 </details>
+
+## E-Books
+- [Data Science in a Nutshell 📊](https://store.thesundayorg.social/l/DataScienceinaNutshell)
+- [100+ Data Science Tools 🚀](https://store.thesundayorg.social/l/DataScienceTools)
