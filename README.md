@@ -56,6 +56,20 @@ Your <b>one-stop destination</b> to ace life skills and to create a <b>sustainab
 Revolutionize the way we see - <b>technology, finance, mental health, career, and much more</b>. 💛
 </p>
 
+## Prodactive 
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://prodactive.live/)
+
+<p>
+Our mission is to be your best friend and guide to prioritize your mental wellness and cultivate a compassionate, happy and healthier society. 
+We Are Different.
+By Different We Mean Better.
+Made With Love And Care For You.
+<br>
+Mainly focuses on <b>Mindfulness, Cognitive Psychology, Affirmations, Meditation, Mental Health, Sustainability</b>.
+
+</p>
+
 ## Elixir Coding
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elixircoding/)
